@@ -16,6 +16,8 @@ React-сайт о группе City Morgue: биография, таймлайн
 npm install
 npm run dev
 ```
+Или же
+https://zemnyux.github.io/city-morgue-site/
 
 Если порт `5173` занят, Vite автоматически откроет следующий свободный порт.
 
